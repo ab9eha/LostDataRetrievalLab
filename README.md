@@ -5,6 +5,12 @@ A Python-based digital forensics learning project that demonstrates
 safe file-deletion simulation, recovery-copy workflows, SHA-256
 integrity verification, evidence logging, and case-report generation.
 
+## 🚀 Live Demo
+
+**Try the application online:** [Lost Data Retrieval Lab](https://lostdataretrievallab.streamlit.app/)
+
+Explore the simulated file-recovery workflow, SHA-256 integrity verification, recovery analytics, and downloadable JSON case reports.
+
 ![Lost Data Retrieval Lab Dashboard](dashboard.png)
 
 ## Features
